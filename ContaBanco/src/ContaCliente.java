@@ -15,7 +15,7 @@ public class ContaCliente {
             System.out.println("Por favor digite seu nome completo para confirmação de dados");
             String nomeCliente = input.next();
 
-            System.out.println(" Olá senhor "+ nomeCliente + ", o seu saldo é de " + saldoBanco);
+            System.out.println("Olá "+nomeCliente+", obrigado por pelo seu retorno em nosso banco, sua agência é "+agenciaCliente+", conta " + numeroConta +" e seu saldo "+ saldoBanco +" já está disponível para saque");
             
 }
 }
