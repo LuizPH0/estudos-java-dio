@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 public class CaixaEletronico {
     Scanner scan = new Scanner(System.in);
